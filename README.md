@@ -13,7 +13,9 @@ My-novals
 进度
 -------------
 
-目前《[生于太空](https://github.com/alone-tree/My-novals/blob/main/%E7%94%9F%E4%BA%8E%E5%A4%AA%E7%A9%BA.md)》开始写了，其他的还只有一个文件和简单的想法。
+《[政治演化三万年](https://github.com/alone-tree/My-novals/blob/main/%E6%94%BF%E6%B2%BB%E6%BC%94%E5%8C%96%E4%B8%89%E4%B8%87%E5%B9%B4.md)》完成了引言部分，最核心的框架已经搭建起来
+
+《[生于太空](https://github.com/alone-tree/My-novals/blob/main/%E7%94%9F%E4%BA%8E%E5%A4%AA%E7%A9%BA.md)》开始写了，其他的还只有一个文件和简单的想法。
 
 
 ---------------
