@@ -1,1 +1,3 @@
 cd /d F:\My\My-novals  #切换路径
+
+pandoc "born in universe.md" -f markdown -o mybook.epub
